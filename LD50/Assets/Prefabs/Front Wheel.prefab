@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3020888106813185591
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3087054395101884571, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7316892816320212627, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_Name
+      value: Front Wheel
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumSlip
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteSlip
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumValue
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteValue
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteSlip
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumValue
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873267038858378082, guid: c5e50af58f823ae46a8dc0475a63e9ac,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteValue
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c5e50af58f823ae46a8dc0475a63e9ac, type: 3}
